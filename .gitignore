@@ -42,6 +42,9 @@
 *.idb
 *.pdb
 
+#Visual Studio Code settings folder
+*.vscode
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
