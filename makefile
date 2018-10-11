@@ -1,5 +1,4 @@
 all:
-	gcc myLinkedList.c -o execute
-	./execute
-drop:
-	rm execute
+	gcc LinkedList.c -o execute
+	@./execute
+	@rm execute
